@@ -53,7 +53,7 @@ To set up the **Bank Management System** locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://SubhoHazra07/Bank-Management-System.git
+   git clone https://github.com/Ambika025/Bank-Management-System.git
 
 2. **Navigate to the project directory**:
    ```bash
